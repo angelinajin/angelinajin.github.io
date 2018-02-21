@@ -1,2 +1,2 @@
-#angelinajin.me
+angelinajin.me
 A personal website in the making.
